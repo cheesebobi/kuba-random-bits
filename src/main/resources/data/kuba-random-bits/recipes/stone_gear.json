@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:cobblestone"
+    },
+    "G": {
+      "item": "kuba-random-bits:wood_gear"
+    }
+  },
+  "pattern": [
+    " D ",
+    "DGD",
+    " D "
+  ],
+  "result": {
+    "item": "kuba-random-bits:stone_gear"
+  },
+  "show_notification": true
+}

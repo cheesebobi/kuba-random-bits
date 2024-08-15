@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " D ",
+    "D D",
+    " D "
+  ],
+  "result": {
+    "item": "kuba-random-bits:wood_gear"
+  },
+  "show_notification": true
+}
