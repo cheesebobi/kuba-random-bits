@@ -89,7 +89,8 @@ public class KubaRandomBitsDataGenerator implements DataGeneratorEntrypoint {
 		public void generateItemModels(ItemModelGenerator itemModelGenerator) {
 
 			registerGeneratedModels(itemModelGenerator,
-					ModItems.DIAMOND_GEAR, ModItems.WOOD_GEAR, ModItems.STONE_GEAR, ModItems.IRON_GEAR, ModItems.GOLD_GEAR);
+					ModItems.DIAMOND_GEAR, ModItems.WOOD_GEAR, ModItems.STONE_GEAR, ModItems.IRON_GEAR, ModItems.GOLD_GEAR,
+					ModItems.URANIUM);
 
 		}
 

@@ -19,6 +19,8 @@ public class ModItems {
 
     public static final Item GOLD_GEAR = registerItemWithGroup("gold_gear", new Item(new FabricItemSettings()));
 
+    public static final Item URANIUM = registerItemWithGroup("uranium", new Item(new FabricItemSettings()));
+
 
     private static Item registerItem(String name, Item item) {
         Registry.register(Registries.ITEM, new Identifier(KubaRandomBits.MOD_ID, name), item);
