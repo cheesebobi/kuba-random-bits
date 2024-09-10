@@ -88,7 +88,7 @@ public class KubaRandomBitsDataGenerator implements DataGeneratorEntrypoint {
 		@Override
 		public void generateItemModels(ItemModelGenerator itemModelGenerator) {
 
-			registerGeneratedModels(itemModelGenerator, ModItems.DIAMOND_GEAR, ModItems.WOOD_GEAR, ModItems.STONE_GEAR, ModItems.IRON_GEAR, ModItems.GOLD_GEAR, ModItems.URANIUM);
+registerGeneratedModels( itemModelGenerator, ModItems.DIAMOND_GEAR, ModItems.WOOD_GEAR, ModItems.STONE_GEAR, ModItems.IRON_GEAR, ModItems.GOLD_GEAR, ModItems.URANIUM, ModItems.ATOMIC_DISASSEMBLER, ModItems.MEKANISM_FREERUNNERS, ModItems.ENDERIO_BLOCK_REINFORCED_OBSIDIAN, ModItems.BOTANIA_MANATABLET, ModItems.CHISEL_CONCRETE_ORANGE1, ModItems.CHISEL_FACTORY1, ModItems.CHISEL_REDSTONE, ModItems.THERMALFOUNDATION_MATERIAL, ModItems.THERMALFOUNDATION_TOOLHAMMER_PLATINUM, ModItems.THERMALFOUNDATION_TOOLSWORD_PLATINUM);
 
 		}
 

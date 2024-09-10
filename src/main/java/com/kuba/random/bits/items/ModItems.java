@@ -21,6 +21,16 @@ public class ModItems {
 
     public static final Item URANIUM = registerItemWithGroup("uranium", new Item(new FabricItemSettings()));
 
+    public static final Item ATOMIC_DISASSEMBLER = registerItemWithGroup("atomic_disassembler", new Item(new FabricItemSettings()));
+    public static final Item MEKANISM_FREERUNNERS = registerItemWithGroup("mekanism_freerunners", new Item(new FabricItemSettings()));
+    public static final Item ENDERIO_BLOCK_REINFORCED_OBSIDIAN = registerItemWithGroup("enderio_block_reinforced_obsidian", new Item(new FabricItemSettings()));
+    public static final Item BOTANIA_MANATABLET = registerItemWithGroup("botania_manatablet", new Item(new FabricItemSettings()));
+    public static final Item CHISEL_CONCRETE_ORANGE1 = registerItemWithGroup("chisel_concrete_orange1", new Item(new FabricItemSettings()));
+    public static final Item CHISEL_FACTORY1 = registerItemWithGroup("chisel_factory1", new Item(new FabricItemSettings()));
+    public static final Item CHISEL_REDSTONE = registerItemWithGroup("chisel_redstone", new Item(new FabricItemSettings()));
+    public static final Item THERMALFOUNDATION_MATERIAL = registerItemWithGroup("thermalfoundation_material", new Item(new FabricItemSettings()));
+    public static final Item THERMALFOUNDATION_TOOLHAMMER_PLATINUM = registerItemWithGroup("thermalfoundation_toolhammer_platinum", new Item(new FabricItemSettings()));
+    public static final Item THERMALFOUNDATION_TOOLSWORD_PLATINUM = registerItemWithGroup("thermalfoundation_toolsword_platinum", new Item(new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item) {
         Registry.register(Registries.ITEM, new Identifier(KubaRandomBits.MOD_ID, name), item);

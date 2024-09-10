@@ -5,5 +5,15 @@
   "item.kuba-random-bits.stone_gear": "Stone Gear",
   "item.kuba-random-bits.iron_gear": "Iron Gear",
   "item.kuba-random-bits.gold_gear": "Gold Gear",
-  "item.kuba-random-bits.uranium": "Uranium"
+  "item.kuba-random-bits.uranium": "Uranium",
+  "item.kuba-random-bits.atomic_disassembler": "Atomic Disassembler",
+  "item.kuba-random-bits.mekanism_freerunners": "Mekanism Freerunners",
+  "item.kuba-random-bits.enderio_block_reinforced_obsidian": "Enderio Block Reinforced Obsidian",
+  "item.kuba-random-bits.botania_manatablet": "Botania Manatablet",
+  "item.kuba-random-bits.chisel_concrete_orange1": "Chisel Concrete Orange1",
+  "item.kuba-random-bits.chisel_factory1": "Chisel Factory1",
+  "item.kuba-random-bits.chisel_redstone": "Chisel Redstone",
+  "item.kuba-random-bits.thermalfoundation_material": "Thermalfoundation Material",
+  "item.kuba-random-bits.thermalfoundation_toolhammer_platinum": "Thermalfoundation Toolhammer Platinum",
+  "item.kuba-random-bits.thermalfoundation_toolsword_platinum": "Thermalfoundation Toolsword Platinum"
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kuba-random-bits:item/enderio_block_reinforced_obsidian"
+  }
+}
